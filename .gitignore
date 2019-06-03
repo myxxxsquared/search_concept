@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+/.vscode/
+/output.html
+/search_concept.db
+/uimainwindow.py
